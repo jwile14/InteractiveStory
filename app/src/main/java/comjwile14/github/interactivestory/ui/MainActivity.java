@@ -1,4 +1,4 @@
-package comjwile14.github.interactivestory;
+package comjwile14.github.interactivestory.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import comjwile14.github.interactivestory.R;
 
 
 public class MainActivity extends ActionBarActivity {
